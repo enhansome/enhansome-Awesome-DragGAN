@@ -100,7 +100,7 @@
             "last_commit": "2024-05-18T15:55:42Z",
             "owner": "NVlabs",
             "repo": "stylegan2",
-            "stars": 11185
+            "stars": 11184
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2024-05-10T18:13:37Z",
             "owner": "NVlabs",
             "repo": "stylegan2-ada-pytorch",
-            "stars": 4487
+            "stars": 4485
           }
         },
         {
@@ -150,7 +150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:46:28.754Z",
+    "last_updated": "2026-08-14T19:39:21.834Z",
     "original_repository": "OpenGVLab/Awesome-DragGAN",
     "original_repository_sha": "992d3b10cd5e0f29bb4301095403e61fb19a6c3c",
     "enhanced_repository": "enhansome/enhansome-Awesome-DragGAN",
