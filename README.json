@@ -24,7 +24,7 @@
             "last_commit": "2023-07-17T03:01:01Z",
             "owner": "OpenGVLab",
             "repo": "DragGAN",
-            "stars": 4949
+            "stars": 4948
           }
         },
         {
@@ -150,7 +150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:39:21.834Z",
+    "last_updated": "2026-08-15T19:07:37.432Z",
     "original_repository": "OpenGVLab/Awesome-DragGAN",
     "original_repository_sha": "992d3b10cd5e0f29bb4301095403e61fb19a6c3c",
     "enhanced_repository": "enhansome/enhansome-Awesome-DragGAN",
