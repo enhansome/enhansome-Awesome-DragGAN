@@ -1,6 +1,6 @@
 # Awesome-DragGAN 🐉 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,919 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,367 | 🐛 102 | 📅 2026-08-18
 [![Awesome DragGAN](https://img.shields.io/badge/Awesome-DragGAN-blue)](https://github.com/topics/awesome)
 
 DragGAN has been one of the most popular generative image editing model these days. It provide a brand new way to edit the image by interatively selecting target and source points on the image, giving the greater flexibility to users than existing text-based editing. Though constrainted to generative image manifold currently, the idea of DragGAN should inspired and have inspired a varity of following works.
@@ -15,11 +15,11 @@ Awesome-DragGAN is a curated list of the papers, repositories, tutorials, and an
 
 > [Contributions](https://github.com//OpenGVLab/Awesome-DragGAN/pulls) ⭐ 83 | 🐛 0 | 📅 2023-11-08 are welcome!
 
-## Starting Point [![Star](https://img.shields.io/github/stars/XingangPan/DragGAN.svg?style=social\&label=Star)](https://github.com/XingangPan/DragGAN) ⭐ 35,768 | 🐛 154 | 🌐 Python | 📅 2024-05-18
+## Starting Point [![Star](https://img.shields.io/github/stars/XingangPan/DragGAN.svg?style=social\&label=Star)](https://github.com/XingangPan/DragGAN) ⭐ 35,764 | 🐛 154 | 🌐 Python | 📅 2024-05-18
 
 > [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://arxiv.org/abs/2305.10973) </br>
 > Xingang Pan, Ayush Tewari, Thomas Leimkühler, Lingjie Liu, Abhimitra Meka, Christian Theobalt </br>
-> \[[`Code`](https://github.com/XingangPan/DragGAN) ⭐ 35,768 | 🐛 154 | 🌐 Python | 📅 2024-05-18]  \[[`Project Page`](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)]  \[[`Official Implementation`](https://github.com/XingangPan/DragGAN) ⭐ 35,768 | 🐛 154 | 🌐 Python | 📅 2024-05-18]
+> \[[`Code`](https://github.com/XingangPan/DragGAN) ⭐ 35,764 | 🐛 154 | 🌐 Python | 📅 2024-05-18]  \[[`Project Page`](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)]  \[[`Official Implementation`](https://github.com/XingangPan/DragGAN) ⭐ 35,764 | 🐛 154 | 🌐 Python | 📅 2024-05-18]
 
 ## Papers
 
@@ -49,7 +49,7 @@ June 26 2023
 
 ## Repositories
 
-* [DragGAN](https://github.com/OpenGVLab/DragGAN) ⭐ 4,948 | 🐛 63 | 🌐 Python | 📅 2023-07-17: Unoffficial Implementation by OpenGVLab. [![Star](https://img.shields.io/github/stars/OpenGVLab/DragGAN.svg?style=social\&label=Star)](https://github.com/OpenGVLab/DragGAN) ⭐ 4,948 | 🐛 63 | 🌐 Python | 📅 2023-07-17
+* [DragGAN](https://github.com/OpenGVLab/DragGAN) ⭐ 4,947 | 🐛 63 | 🌐 Python | 📅 2023-07-17: Unoffficial Implementation by OpenGVLab. [![Star](https://img.shields.io/github/stars/OpenGVLab/DragGAN.svg?style=social\&label=Star)](https://github.com/OpenGVLab/DragGAN) ⭐ 4,947 | 🐛 63 | 🌐 Python | 📅 2023-07-17
 * [DragGAN-Windows-GUI](https://github.com/zhaoyun0071/DragGAN-Windows-GUI) ⭐ 569 | 🐛 6 | 📅 2023-07-03: Packaged DragGAN Installtion for Windows.  [![Star](https://img.shields.io/github/stars/zhaoyun0071/DragGAN-Windows-GUI.svg?style=social\&label=Star)](https://github.com/zhaoyun0071/DragGAN-Windows-GUI) ⭐ 569 | 🐛 6 | 📅 2023-07-03
 * [Drag3D](https://github.com/ashawkey/Drag3D) ⭐ 466 | 🐛 1 | 🌐 Python | 📅 2023-06-05: DragGAN meets GET3D for interactive mesh generation and editing. [![Star](https://img.shields.io/github/stars/ashawkey/Drag3D.svg?style=social\&label=Star)](https://github.com/ashawkey/Drag3D) ⭐ 466 | 🐛 1 | 🌐 Python | 📅 2023-06-05
 * [DragDiffusion](https://github.com/Advocate99/DragDiffusion) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2023-07-07: Unofficial Implementation for [DragDiffusion](https://arxiv.org/abs//2306.14435). [![Star](https://img.shields.io/github/stars/Advocate99/DragDiffusion.svg?style=social\&label=Star)](https://github.com/Advocate99/DragDiffusion) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2023-07-07
@@ -69,4 +69,4 @@ June 26 2023
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
