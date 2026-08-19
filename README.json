@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Starting Point"
-    },
-    {
-      "description": "The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing Shen Nie, Hanzhong Allan Guo, Cheng Lu, Yuhao Zhou, Chenyu Zheng, Chongxuan Li [] [] Nov 2 2023\nFreeDrag: Point Tracking is Not You Need for Interactive Point-based Image Editing Pengyang Ling*, Lin Chen*, Pan Zhang, Huaian Chen, Yi Jin [] [] July 10 2023\nDragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models Chong Mou, Xintao Wang, Jiechong Song, Ying Shan, Jian Zhang [] July 5 2023\nDragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing Yujun Shi, Chuhui Xue, Jiachun Pan, Wenqing Zhang, Vincent Y. F. Tan, Song Bai [] [] June 26 2023",
-      "items": [],
-      "title": "Papers"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 643150126,
             "language": "Python",
             "last_commit": "2023-07-17T03:01:01Z",
             "owner": "OpenGVLab",
@@ -34,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 658643373,
             "language": null,
             "last_commit": "2023-07-03T13:54:22Z",
             "owner": "zhaoyun0071",
@@ -48,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 644168704,
             "language": "Python",
             "last_commit": "2023-06-05T02:32:14Z",
             "owner": "ashawkey",
@@ -62,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660983892,
             "language": "Python",
             "last_commit": "2023-07-07T13:44:17Z",
             "owner": "Advocate99",
@@ -76,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 645184928,
             "language": "Python",
             "last_commit": "2023-05-27T18:06:10Z",
             "owner": "skimai",
@@ -87,7 +82,7 @@
       "title": "Repositories"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -96,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224284178,
             "language": "Python",
             "last_commit": "2024-05-18T15:55:42Z",
             "owner": "NVlabs",
@@ -110,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 329045912,
             "language": "Python",
             "last_commit": "2024-05-10T18:13:37Z",
             "owner": "NVlabs",
@@ -124,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452775396,
             "language": "Python",
             "last_commit": "2025-01-26T03:44:04Z",
             "owner": "stylegan-human",
@@ -138,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 463080800,
             "language": "Python",
             "last_commit": "2022-04-05T08:25:37Z",
             "owner": "self-distilled-stylegan",
@@ -150,8 +149,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:17:33.642Z",
+    "last_updated": "2026-08-19T12:08:57.055Z",
     "original_repository": "OpenGVLab/Awesome-DragGAN",
+    "original_repository_id": 659734072,
     "original_repository_sha": "992d3b10cd5e0f29bb4301095403e61fb19a6c3c",
     "enhanced_repository": "enhansome/enhansome-Awesome-DragGAN",
     "enhanced_repository_description": null,
