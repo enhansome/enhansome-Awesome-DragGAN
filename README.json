@@ -96,7 +96,7 @@
             "last_commit": "2024-05-18T15:55:42Z",
             "owner": "NVlabs",
             "repo": "stylegan2",
-            "stars": 11184
+            "stars": 11183
           }
         },
         {
@@ -149,7 +149,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:15:12.336Z",
+    "last_updated": "2026-08-22T19:10:12.696Z",
     "original_repository": "OpenGVLab/Awesome-DragGAN",
     "original_repository_id": 659734072,
     "original_repository_sha": "992d3b10cd5e0f29bb4301095403e61fb19a6c3c",
