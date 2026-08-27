@@ -1,6 +1,6 @@
 # Awesome-DragGAN 🐉 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,202 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,361 | 🐛 105 | 📅 2026-08-21
 [![Awesome DragGAN](https://img.shields.io/badge/Awesome-DragGAN-blue)](https://github.com/topics/awesome)
 
 DragGAN has been one of the most popular generative image editing model these days. It provide a brand new way to edit the image by interatively selecting target and source points on the image, giving the greater flexibility to users than existing text-based editing. Though constrainted to generative image manifold currently, the idea of DragGAN should inspired and have inspired a varity of following works.
@@ -49,7 +49,7 @@ June 26 2023
 
 ## Repositories
 
-* [DragGAN](https://github.com/OpenGVLab/DragGAN) ⭐ 4,946 | 🐛 63 | 🌐 Python | 📅 2023-07-17: Unoffficial Implementation by OpenGVLab. [![Star](https://img.shields.io/github/stars/OpenGVLab/DragGAN.svg?style=social\&label=Star)](https://github.com/OpenGVLab/DragGAN) ⭐ 4,946 | 🐛 63 | 🌐 Python | 📅 2023-07-17
+* [DragGAN](https://github.com/OpenGVLab/DragGAN) ⭐ 4,945 | 🐛 63 | 🌐 Python | 📅 2023-07-17: Unoffficial Implementation by OpenGVLab. [![Star](https://img.shields.io/github/stars/OpenGVLab/DragGAN.svg?style=social\&label=Star)](https://github.com/OpenGVLab/DragGAN) ⭐ 4,945 | 🐛 63 | 🌐 Python | 📅 2023-07-17
 * [DragGAN-Windows-GUI](https://github.com/zhaoyun0071/DragGAN-Windows-GUI) ⭐ 569 | 🐛 6 | 📅 2023-07-03: Packaged DragGAN Installtion for Windows.  [![Star](https://img.shields.io/github/stars/zhaoyun0071/DragGAN-Windows-GUI.svg?style=social\&label=Star)](https://github.com/zhaoyun0071/DragGAN-Windows-GUI) ⭐ 569 | 🐛 6 | 📅 2023-07-03
 * [Drag3D](https://github.com/ashawkey/Drag3D) ⭐ 466 | 🐛 1 | 🌐 Python | 📅 2023-06-05: DragGAN meets GET3D for interactive mesh generation and editing. [![Star](https://img.shields.io/github/stars/ashawkey/Drag3D.svg?style=social\&label=Star)](https://github.com/ashawkey/Drag3D) ⭐ 466 | 🐛 1 | 🌐 Python | 📅 2023-06-05
 * [DragDiffusion](https://github.com/Advocate99/DragDiffusion) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2023-07-07: Unofficial Implementation for [DragDiffusion](https://arxiv.org/abs//2306.14435). [![Star](https://img.shields.io/github/stars/Advocate99/DragDiffusion.svg?style=social\&label=Star)](https://github.com/Advocate99/DragDiffusion) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2023-07-07
@@ -69,4 +69,4 @@ June 26 2023
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
