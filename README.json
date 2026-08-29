@@ -15,8 +15,9 @@
             "last_commit": "2023-07-17T03:01:01Z",
             "owner": "OpenGVLab",
             "repo": "DragGAN",
-            "stars": 4945
-          }
+            "stars": 4946
+          },
+          "first_seen": "2026-08-29T01:55:38.918Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "zhaoyun0071",
             "repo": "DragGAN-Windows-GUI",
             "stars": 569
-          }
+          },
+          "first_seen": "2026-08-29T01:55:38.918Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "ashawkey",
             "repo": "Drag3D",
             "stars": 466
-          }
+          },
+          "first_seen": "2026-08-29T01:55:38.918Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "Advocate99",
             "repo": "DragDiffusion",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T01:55:38.918Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "skimai",
             "repo": "DragGAN",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T01:55:38.918Z"
         }
       ],
       "title": "Repositories"
@@ -97,7 +102,8 @@
             "owner": "NVlabs",
             "repo": "stylegan2",
             "stars": 11184
-          }
+          },
+          "first_seen": "2026-08-29T01:55:38.918Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "NVlabs",
             "repo": "stylegan2-ada-pytorch",
             "stars": 4487
-          }
+          },
+          "first_seen": "2026-08-29T01:55:38.918Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "stylegan-human",
             "repo": "StyleGAN-Human",
             "stars": 1189
-          }
+          },
+          "first_seen": "2026-08-29T01:55:38.918Z"
         },
         {
           "node_type": "item",
@@ -142,14 +150,15 @@
             "owner": "self-distilled-stylegan",
             "repo": "self-distilled-internet-photos",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-29T01:55:38.918Z"
         }
       ],
       "title": "Pretrained GAN Models"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:21:44.243Z",
+    "last_updated": "2026-08-29T01:55:38.918Z",
     "original_repository_info": {
       "archived": false,
       "id": 659734072,
