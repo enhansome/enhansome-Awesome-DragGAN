@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Implementation of DragGAN - \"Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）",
+            "homepage": null,
             "id": 643150126,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-17T03:01:01Z",
+            "open_issues": 63,
             "owner": "OpenGVLab",
             "repo": "DragGAN",
-            "stars": 4946
+            "stars": 4946,
+            "topics": [
+              "draggan",
+              "gradio-interface",
+              "image-editing",
+              "image-generation",
+              "interngpt"
+            ]
           },
           "first_seen": "2026-08-29T01:55:38.918Z"
         },
@@ -26,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 658643373,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-03T13:54:22Z",
+            "open_issues": 6,
             "owner": "zhaoyun0071",
             "repo": "DragGAN-Windows-GUI",
-            "stars": 569
+            "stars": 569,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.918Z"
         },
@@ -42,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DragGAN meets GET3D for interactive mesh generation and editing.",
+            "homepage": null,
             "id": 644168704,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-05T02:32:14Z",
+            "open_issues": 1,
             "owner": "ashawkey",
             "repo": "Drag3D",
-            "stars": 466
+            "stars": 466,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.918Z"
         },
@@ -58,12 +79,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial implementation of DragDiffusion",
+            "homepage": null,
             "id": 660983892,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-07T13:44:17Z",
+            "open_issues": 0,
             "owner": "Advocate99",
             "repo": "DragDiffusion",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.918Z"
         },
@@ -74,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Implementation of \"Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\"",
+            "homepage": null,
             "id": 645184928,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-27T18:06:10Z",
+            "open_issues": 1,
             "owner": "skimai",
             "repo": "DragGAN",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.918Z"
         }
@@ -96,12 +127,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "StyleGAN2 - Official TensorFlow Implementation",
+            "homepage": "http://arxiv.org/abs/1912.04958",
             "id": 224284178,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-18T15:55:42Z",
+            "open_issues": 25,
             "owner": "NVlabs",
             "repo": "stylegan2",
-            "stars": 11184
+            "stars": 11184,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.918Z"
         },
@@ -112,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "StyleGAN2-ADA - Official PyTorch implementation",
+            "homepage": "https://arxiv.org/abs/2006.06676",
             "id": 329045912,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-10T18:13:37Z",
+            "open_issues": 201,
             "owner": "NVlabs",
             "repo": "stylegan2-ada-pytorch",
-            "stars": 4487
+            "stars": 4487,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.918Z"
         },
@@ -128,12 +169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "StyleGAN-Human: A Data-Centric Odyssey of Human Generation",
+            "homepage": null,
             "id": 452775396,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-26T03:44:04Z",
+            "open_issues": 27,
             "owner": "stylegan-human",
             "repo": "StyleGAN-Human",
-            "stars": 1189
+            "stars": 1189,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.918Z"
         },
@@ -144,12 +190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 463080800,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2022-04-05T08:25:37Z",
+            "open_issues": 6,
             "owner": "self-distilled-stylegan",
             "repo": "self-distilled-internet-photos",
-            "stars": 242
+            "stars": 242,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.918Z"
         }
@@ -158,15 +209,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:55:38.918Z",
+    "last_updated": "2026-08-29T05:05:22.577Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome-DragGAN: A curated list of papers, tutorials, repositories related to DragGAN",
+      "homepage": null,
       "id": 659734072,
       "language": null,
+      "license": null,
       "last_commit": "2023-11-08T08:54:43Z",
+      "open_issues": 0,
       "owner": "OpenGVLab",
       "repo": "Awesome-DragGAN",
-      "stars": 83
+      "stars": 83,
+      "topics": [
+        "awesome-list",
+        "draggan",
+        "gan"
+      ]
     },
     "original_repository_sha": "992d3b10cd5e0f29bb4301095403e61fb19a6c3c",
     "enhanced_repository": "enhansome/enhansome-Awesome-DragGAN",
