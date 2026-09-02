@@ -1,6 +1,6 @@
 # Awesome-DragGAN 🐉 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,018 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,371 | 🐛 105 | 📅 2026-09-02
 [![Awesome DragGAN](https://img.shields.io/badge/Awesome-DragGAN-blue)](https://github.com/topics/awesome)
 
 DragGAN has been one of the most popular generative image editing model these days. It provide a brand new way to edit the image by interatively selecting target and source points on the image, giving the greater flexibility to users than existing text-based editing. Though constrainted to generative image manifold currently, the idea of DragGAN should inspired and have inspired a varity of following works.
@@ -62,11 +62,11 @@ June 26 2023
 
 ## Pretrained GAN Models
 
-* [Stylegan2](https://github.com/NVlabs/stylegan2) ⭐ 11,186 | 🐛 25 | 🌐 Python | 📅 2024-05-18: Car, Cat, Church, Human Face, Horse
+* [Stylegan2](https://github.com/NVlabs/stylegan2) ⭐ 11,184 | 🐛 25 | 🌐 Python | 📅 2024-05-18: Car, Cat, Church, Human Face, Horse
 * [StyleGAN2-Ada](https://github.com/NVlabs/stylegan2-ada-pytorch) ⭐ 4,487 | 🐛 201 | 🌐 Python | 📅 2024-05-10: Cat, Dog, Wild, Human Face, Painting Face, Brecahad
 * [StyleGAN-Human](https://github.com/stylegan-human/StyleGAN-Human) ⭐ 1,190 | 🐛 27 | 🌐 Python | 📅 2025-01-26: Human
 * [Self-Distilled-StyleGAN](https://github.com/self-distilled-stylegan/self-distilled-internet-photos) ⭐ 242 | 🐛 6 | 🌐 Python | 📅 2022-04-05: Bicycle, Dog, Elephant, Giraffe, Horse, Lion, Parrot
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
