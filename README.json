@@ -19,7 +19,7 @@
             "open_issues": 63,
             "owner": "OpenGVLab",
             "repo": "DragGAN",
-            "stars": 4943,
+            "stars": 4944,
             "topics": [
               "draggan",
               "gradio-interface",
@@ -136,7 +136,7 @@
             "open_issues": 25,
             "owner": "NVlabs",
             "repo": "stylegan2",
-            "stars": 11181,
+            "stars": 11180,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.918Z"
@@ -209,7 +209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:18:23.496Z",
+    "last_updated": "2026-09-22T21:41:07.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-DragGAN: A curated list of papers, tutorials, repositories related to DragGAN",
