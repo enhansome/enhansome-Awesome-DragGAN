@@ -1,6 +1,6 @@
 # Awesome-DragGAN 🐉 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,711 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,792 | 🐛 106 | 📅 2026-09-02
 [![Awesome DragGAN](https://img.shields.io/badge/Awesome-DragGAN-blue)](https://github.com/topics/awesome)
 
 DragGAN has been one of the most popular generative image editing model these days. It provide a brand new way to edit the image by interatively selecting target and source points on the image, giving the greater flexibility to users than existing text-based editing. Though constrainted to generative image manifold currently, the idea of DragGAN should inspired and have inspired a varity of following works.
@@ -13,7 +13,7 @@ Awesome-DragGAN is a curated list of the papers, repositories, tutorials, and an
 * [Tutorials](#tutorials)
 * [Pretrained GAN Models](#pretrained-gan-models)
 
-> [Contributions](https://github.com//OpenGVLab/Awesome-DragGAN/pulls) ⭐ 83 | 🐛 0 | 📅 2023-11-08 are welcome!
+> [Contributions](https://github.com//OpenGVLab/Awesome-DragGAN/pulls) are welcome!
 
 ## Starting Point [![Star](https://img.shields.io/github/stars/XingangPan/DragGAN.svg?style=social\&label=Star)](https://github.com/XingangPan/DragGAN) ⭐ 35,748 | 🐛 154 | 🌐 Python | 📅 2024-05-18
 
@@ -69,4 +69,4 @@ June 26 2023
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
