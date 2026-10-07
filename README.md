@@ -1,6 +1,6 @@
 # Awesome-DragGAN 🐉 with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,622 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,081 | 🐛 106 | 📅 2026-09-02
 [![Awesome DragGAN](https://img.shields.io/badge/Awesome-DragGAN-blue)](https://github.com/topics/awesome)
 
 DragGAN has been one of the most popular generative image editing model these days. It provide a brand new way to edit the image by interatively selecting target and source points on the image, giving the greater flexibility to users than existing text-based editing. Though constrainted to generative image manifold currently, the idea of DragGAN should inspired and have inspired a varity of following works.
@@ -15,11 +15,11 @@ Awesome-DragGAN is a curated list of the papers, repositories, tutorials, and an
 
 > [Contributions](https://github.com//OpenGVLab/Awesome-DragGAN/pulls) are welcome!
 
-## Starting Point [![Star](https://img.shields.io/github/stars/XingangPan/DragGAN.svg?style=social\&label=Star)](https://github.com/XingangPan/DragGAN) ⭐ 35,741 | 🐛 154 | 🌐 Python | 📅 2024-05-18
+## Starting Point [![Star](https://img.shields.io/github/stars/XingangPan/DragGAN.svg?style=social\&label=Star)](https://github.com/XingangPan/DragGAN) ⭐ 35,740 | 🐛 154 | 🌐 Python | 📅 2024-05-18
 
 > [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://arxiv.org/abs/2305.10973) </br>
 > Xingang Pan, Ayush Tewari, Thomas Leimkühler, Lingjie Liu, Abhimitra Meka, Christian Theobalt </br>
-> \[[`Code`](https://github.com/XingangPan/DragGAN) ⭐ 35,741 | 🐛 154 | 🌐 Python | 📅 2024-05-18]  \[[`Project Page`](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)]  \[[`Official Implementation`](https://github.com/XingangPan/DragGAN) ⭐ 35,741 | 🐛 154 | 🌐 Python | 📅 2024-05-18]
+> \[[`Code`](https://github.com/XingangPan/DragGAN) ⭐ 35,740 | 🐛 154 | 🌐 Python | 📅 2024-05-18]  \[[`Project Page`](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)]  \[[`Official Implementation`](https://github.com/XingangPan/DragGAN) ⭐ 35,740 | 🐛 154 | 🌐 Python | 📅 2024-05-18]
 
 ## Papers
 
@@ -29,10 +29,10 @@ Shen Nie, Hanzhong Allan Guo, Cheng Lu, Yuhao Zhou, Chenyu Zheng, Chongxuan Li <
 \[[`Project Page`](https://ml-gsai.github.io/SDE-Drag-demo/)] \[[`Code`](https://github.com/ML-GSAI/SDE-Drag) ⭐ 113 | 🐛 3 | 🌐 Python | 📅 2024-02-26] </br>
 Nov 2 2023
 
-[![Star](https://img.shields.io/github/stars/LPengYang/FreeDrag.svg?style=social\&label=Star)](https://github.com/LPengYang/FreeDrag) ⭐ 420 | 🐛 1 | 🌐 Python | 📅 2025-04-13 </br>
+[![Star](https://img.shields.io/github/stars/LPengYang/FreeDrag.svg?style=social\&label=Star)](https://github.com/LPengYang/FreeDrag) ⭐ 421 | 🐛 1 | 🌐 Python | 📅 2025-04-13 </br>
 [FreeDrag: Point Tracking is Not You Need for Interactive Point-based Image Editing](https://arxiv.org/abs/2307.04684) </br>
 Pengyang Ling\*, Lin Chen\*, Pan Zhang, Huaian Chen, Yi Jin </br>
-\[[`Project Page`](https://lin-chen.site/projects/freedrag)] \[[`Code`](https://github.com/LPengYang/FreeDrag) ⭐ 420 | 🐛 1 | 🌐 Python | 📅 2025-04-13] </br>
+\[[`Project Page`](https://lin-chen.site/projects/freedrag)] \[[`Code`](https://github.com/LPengYang/FreeDrag) ⭐ 421 | 🐛 1 | 🌐 Python | 📅 2025-04-13] </br>
 July 10 2023
 
 [![Star](https://img.shields.io/github/stars/MC-E/DragonDiffusion.svg?style=social\&label=Star)](https://github.com/MC-E/DragonDiffusion) ⭐ 787 | 🐛 23 | 🌐 Python | 📅 2024-03-02 </br>
@@ -49,7 +49,7 @@ June 26 2023
 
 ## Repositories
 
-* [DragGAN](https://github.com/OpenGVLab/DragGAN) ⭐ 4,937 | 🐛 63 | 🌐 Python | 📅 2023-07-17: Unoffficial Implementation by OpenGVLab. [![Star](https://img.shields.io/github/stars/OpenGVLab/DragGAN.svg?style=social\&label=Star)](https://github.com/OpenGVLab/DragGAN) ⭐ 4,937 | 🐛 63 | 🌐 Python | 📅 2023-07-17
+* [DragGAN](https://github.com/OpenGVLab/DragGAN) ⭐ 4,936 | 🐛 63 | 🌐 Python | 📅 2023-07-17: Unoffficial Implementation by OpenGVLab. [![Star](https://img.shields.io/github/stars/OpenGVLab/DragGAN.svg?style=social\&label=Star)](https://github.com/OpenGVLab/DragGAN) ⭐ 4,936 | 🐛 63 | 🌐 Python | 📅 2023-07-17
 * [DragGAN-Windows-GUI](https://github.com/zhaoyun0071/DragGAN-Windows-GUI) ⭐ 569 | 🐛 6 | 📅 2023-07-03: Packaged DragGAN Installtion for Windows.  [![Star](https://img.shields.io/github/stars/zhaoyun0071/DragGAN-Windows-GUI.svg?style=social\&label=Star)](https://github.com/zhaoyun0071/DragGAN-Windows-GUI) ⭐ 569 | 🐛 6 | 📅 2023-07-03
 * [Drag3D](https://github.com/ashawkey/Drag3D) ⭐ 465 | 🐛 1 | 🌐 Python | 📅 2023-06-05: DragGAN meets GET3D for interactive mesh generation and editing. [![Star](https://img.shields.io/github/stars/ashawkey/Drag3D.svg?style=social\&label=Star)](https://github.com/ashawkey/Drag3D) ⭐ 465 | 🐛 1 | 🌐 Python | 📅 2023-06-05
 * [DragDiffusion](https://github.com/Advocate99/DragDiffusion) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2023-07-07: Unofficial Implementation for [DragDiffusion](https://arxiv.org/abs//2306.14435). [![Star](https://img.shields.io/github/stars/Advocate99/DragDiffusion.svg?style=social\&label=Star)](https://github.com/Advocate99/DragDiffusion) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2023-07-07
@@ -69,4 +69,4 @@ June 26 2023
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
