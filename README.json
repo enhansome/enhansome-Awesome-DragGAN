@@ -67,7 +67,7 @@
             "open_issues": 1,
             "owner": "ashawkey",
             "repo": "Drag3D",
-            "stars": 465,
+            "stars": 464,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.918Z"
@@ -136,7 +136,7 @@
             "open_issues": 25,
             "owner": "NVlabs",
             "repo": "stylegan2",
-            "stars": 11181,
+            "stars": 11182,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.918Z"
@@ -209,7 +209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:20:04.885Z",
+    "last_updated": "2026-10-08T23:34:25.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-DragGAN: A curated list of papers, tutorials, repositories related to DragGAN",
