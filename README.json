@@ -136,7 +136,7 @@
             "open_issues": 25,
             "owner": "NVlabs",
             "repo": "stylegan2",
-            "stars": 11187,
+            "stars": 11188,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:38.918Z"
@@ -209,7 +209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T23:53:13.492Z",
+    "last_updated": "2026-11-24T04:05:44.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome-DragGAN: A curated list of papers, tutorials, repositories related to DragGAN",
